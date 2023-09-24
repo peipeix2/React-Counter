@@ -1,0 +1,31 @@
+.container {
+  margin: 5em;
+}
+
+.counter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 250px;
+  height: 52px;
+  margin: 2em 0px;
+}
+
+.increment {
+  width: 100px;
+  height: 100%;
+}
+
+.cur-number {
+  width: 100px;
+  margin: 0px;
+  text-align: center;
+}
+
+.allplus {
+  height: 52px;
+}
+
+.add-counter {
+  height: 52px;
+}
